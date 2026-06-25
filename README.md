@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Uday Mankar
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Software+Tester;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Things"/>
 
 <img src="https://komarev.com/ghpvc/?username=udaymankar&style=for-the-badge&color=blueviolet"/>
 
@@ -19,9 +19,9 @@
 ```yaml
 Name: Uday Mankar
 
-Role: Software Developer
+Role: Software Engineer
 
-Location: Maharashtra, India 🇮🇳
+Location: Pune, Maharashtra, India 🇮🇳
 
 Education:
   B.Tech Computer Science & Engineering
@@ -42,6 +42,7 @@ Interested In:
   - Backend Development
   - Full Stack Development
   - System Design
+  - Software Testing
 
 Career Goal:
   Become a Software Development Engineer
@@ -53,7 +54,7 @@ Career Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,javascript,html,css,bootstrap,mysql,postgres,git,github,docker,linux,idea,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,mysql,git,github,idea,vscode"/>
 
 </p>
 
@@ -62,6 +63,7 @@ Career Goal:
 # ⚡ Currently Working On
 
 - 🔥 Java Backend Development
+- 🧰 Software Testing 
 - 🌱 Spring Boot REST APIs
 - 💻 Full Stack Web Applications
 - 🚀 Building Real-World Projects
@@ -173,13 +175,10 @@ while(alive){
 | Core Java | ⭐⭐⭐⭐⭐ |
 | OOP | ⭐⭐⭐⭐⭐ |
 | Collections | ⭐⭐⭐⭐☆ |
-| Spring Boot | ⭐⭐⭐☆☆ |
 | REST APIs | ⭐⭐⭐☆☆ |
 | MySQL | ⭐⭐⭐⭐☆ |
 | HTML/CSS | ⭐⭐⭐⭐☆ |
 | JavaScript | ⭐⭐⭐☆☆ |
-| Django | ⭐⭐⭐☆☆ |
-| Docker | ⭐⭐☆☆☆ |
 | AWS | ⭐☆☆☆☆ |
 
 </div>
@@ -300,9 +299,9 @@ CGPA : 6.93
 | Backend | Frontend | Database | Tools |
 |---------|----------|----------|------|
 | Java | HTML5 | MySQL | Git |
-| Spring Boot | CSS3 | PostgreSQL | GitHub |
-| REST API | JavaScript | SQL | Docker |
-| Django | Bootstrap | | Postman |
+|      | CSS3 |      | GitHub |
+|     | JavaScript | SQL |    Claude |
+|  | Bootstrap | | Postman |
 
 </div>
 
@@ -366,26 +365,6 @@ CGPA : 6.93
 
 ---
 
-# 📈 Coding Platforms
-
-<p align="center">
-
-<a href="https://github.com/udaymankar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/udaymankar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:udaymankar9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
 # 💬 Favorite Quote
 
 <div align="center">
@@ -441,7 +420,7 @@ CGPA : 6.93
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,javascript,html,css,bootstrap,mysql,postgres,docker,git,github,linux,idea,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,mysql,git,github,idea,vscode,postman"/>
 
 </div>
 
@@ -494,20 +473,6 @@ CGPA : 6.93
 </a>
 
 </div>
-
----
-
-# ☕ Support My Work (Optional)
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
-</a>
-
-</div>
-
-> Replace `YOUR_USERNAME` with your Buy Me a Coffee username if you create one.
 
 ---
 
