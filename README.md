@@ -396,7 +396,7 @@ CGPA : 6.93
 
 </div>
 
-> **Note:** This image appears after you add the GitHub Actions workflow (`snake.yml`) and let it run once.
+
 
 ---
 
