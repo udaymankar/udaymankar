@@ -12,12 +12,14 @@ Computer Science Engineering graduate with hands-on experience in Core Java, Obj
 
 ## Technical Skills
 
-- **Languages:** Java, JavaScript, SQL
+- **Languages:** Java, JavaScript, Python, SQL
 - **Backend:** JDBC, REST APIs
 - **Concepts:** SDLC, CI/CD, STLC, Collections, Object Oriented Programming
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - **Database:** MySQL
 - **Tools & Platforms:** Git, GitHub, Postman, Claude, Eclipse, VS Code
+- **Software Testing:** Manual Testing, Selenium WebDriver, TestNG, Jira, Automation Test case design
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,mysql,git,github,idea,vscode,postman,linux" height="40" alt="Tech stack icons"/>
@@ -44,6 +46,14 @@ Web application for recording and displaying customer transaction history. Front
 **Portfolio Website** - `HTML` `CSS` `JavaScript` 
 
 Personal portfolio site showcasing projects, skills, and contact details.
+
+**Web Application Selenium Automation Framework** - `Java` `Selenium WebDriver` `Git` 
+
+Building Selenium WebDriver scripts in Java to automate login, form validation, navigation and regression workflows.
+
+**FreezyStock Website - Manual Testing** - `Manual` `Functional` `Regression and UI Testing` 
+
+Building Selenium WebDriver scripts in Java to automate login, form validation, navigation and regression workflows.
 
 More projects and source: [github.com/udaymankar](https://github.com/udaymankar)
 
