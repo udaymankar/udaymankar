@@ -35,25 +35,25 @@ Computer Science Engineering graduate with hands-on experience in Core Java, Obj
 
 ## Projects
 
-**Java ATM Simulation** - `Java` `OOP` `Collections` 
+**- Java ATM Simulation** - `Java` `OOP` `Collections` 
 
 Console-based ATM system with secure login, transaction processing, account management, and file serialization for data persistence.
 
-**Digital Passbook Generator** - `JavaScript` `HTML/CSS` `Bootstrap` 
+**- Digital Passbook Generator** - `JavaScript` `HTML/CSS` `Bootstrap` 
 
 Web application for recording and displaying customer transaction history. Frontend Development and Manual Testing.
 
-**Portfolio Website** - `HTML` `CSS` `JavaScript` 
+**- Portfolio Website** - `HTML` `CSS` `JavaScript` 
 
 Personal portfolio site showcasing projects, skills, and contact details.
 
-**Web Application Selenium Automation Framework** - `Java` `Selenium WebDriver` `Git` 
+**- Web Application Selenium Automation Framework** - `Java` `Selenium WebDriver` `Git` 
 
 Building Selenium WebDriver scripts in Java to automate login, form validation, navigation and regression workflows.
 
-**FreezyStock Website - Manual Testing** - `Manual` `Functional` `Regression and UI Testing` 
+**- FreezyStock Website - Manual Testing** - `Manual` `Functional` `Regression and UI Testing` 
 
-Building Selenium WebDriver scripts in Java to automate login, form validation, navigation and regression workflows.
+Tested search, login, navigation, categories, filters, collections and asset browsing workflows.
 
 More projects and source: [github.com/udaymankar](https://github.com/udaymankar)
 
