@@ -1,3 +1,8 @@
+ <p align="center">
+  <img src="./github-banner.png" alt="Uday Mankar — Software Engineer" width="100%" />
+</p>
+
+
 # Uday Mankar
 **Software Developer / Engineer**
 
