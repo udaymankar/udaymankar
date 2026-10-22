@@ -92,3 +92,15 @@ Spring Boot, React, Automation Testing, Selenium, PlayWright, Design Patterns
 ---
 
 *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/udaymankar/udaymankar/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
+</p>
